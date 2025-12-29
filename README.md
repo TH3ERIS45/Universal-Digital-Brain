@@ -8,4 +8,3 @@ A desktop application built mainly with **Tauri**,
 - 🟦 TypeScript
 - 🦀 Tauri (Rust backend)
 
-## Project Structure
